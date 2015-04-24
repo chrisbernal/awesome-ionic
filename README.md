@@ -1,8 +1,6 @@
 # Awesome Ionic
 
-> A compilation of [Ionic Framework](http://ionicframework.com) resources, components, libraries, and snippets that I have found useful on my learning path.
-
-Inspiration taken from the list of lists: [Awesome](https://github.com/sindresorhus/awesome)
+> A compilation of [Ionic Framework](http://ionicframework.com) resources, components, libraries, and snippets that I have found useful on my learning path. Inspiration taken from the list of lists: [Awesome](https://github.com/sindresorhus/awesome)
 
 ## General
 
