@@ -44,7 +44,7 @@
 * [Sync Data Using PouchDB In Your Ionic Framework App](http://devgirl.org/2014/12/30/sync-data-using-pouchdb-in-your-ionic-framework-app/)
 * [Adding Auth to your Ionic app in 5 mins with Auth0](http://ionicframework.com/blog/authentication-in-ionic/)
 
-## Examples and boilerplates
+## Starter Templates
 
 * Starter template
   * [tabs](https://github.com/driftyco/ionic-starter-tabs)
@@ -52,40 +52,17 @@
   * [blank](https://github.com/driftyco/ionic-starter-blank)
   * [salesforce](https://github.com/driftyco/ionic-starter-salesforce)
   * [maps](https://github.com/driftyco/ionic-starter-maps)
-* [Ionic Hacker News](https://github.com/driftyco/front-page)
+
+
+
+## Fully Functional Applications
+
+ * [Ionic Hacker News](https://github.com/driftyco/front-page)
 * [Ionic Weather App](https://github.com/driftyco/ionic-weather)
 * [Push Notification Sample App](https://github.com/hollyschinsky/PushNotificationSample)
 * [Ionic Chat application](https://github.com/melvin0008/ionic-socketio-chat-client/) - Chat application made using ionic and socketio
 
-## Open source projects
-
-* [CNodeJS](https://github.com/lanceli/cnodejs-ionic) - The mobile app of [https://cnodejs.org](https://cnodejs.org)
-* [Pocket Lines · Mallorca](https://github.com/gsabater/Pocket-Lines) - Transports app for Palma de Mallorca
-* [Convergence](https://github.com/GrumpyWizards/Convergence) - A fun game
-
-## Books
-
-* [Ionic in Action](http://www.manning.com/wilken/?a_aid=ionicinaction)
-
-
-## Contribute
-
-Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first.
-
-
-
-
-
-
-
-
-
-
-
-
-
-## (Need to sort)
-
+## And A Bunch More! (I am in the process of sorting these)
 
 
 * [alevicki/ionic-parse-starter](https://github.com/alevicki/ionic-parse-starter)
@@ -109,8 +86,6 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 * [danielzen/ionic-pouchdb-todo](https://github.com/danielzen/ionic-pouchdb-todo)
 * [diegonetto/generator-ionic](https://github.com/diegonetto/generator-ionic)
 * [drewrygh/ionic-ion-horizontal-scroll-cards](https://github.com/drewrygh/ionic-ion-horizontal-scroll-cards)
-
-
 
 
 * [driftyco/collide](https://github.com/driftyco/collide)
@@ -138,9 +113,6 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 * [driftyco/ionic-starter-tabs](https://github.com/driftyco/ionic-starter-tabs)
 * [driftyco/ionic-weather](https://github.com/driftyco/ionic-weather)
 * [driftyco/ionic-weather](https://github.com/driftyco/ionic-weather)
-
-
-
 
 
 * [ebryn/ember-ionic](https://github.com/ebryn/ember-ionic)
@@ -201,3 +173,7 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 * [ychow/ionic-guide](https://github.com/ychow/ionic-guide)
 * [yrezgui/ionic-rocket](https://github.com/yrezgui/ionic-rocket)
 * [zachsoft/Ionic-Material](https://github.com/zachsoft/Ionic-Material)
+
+## Want To Help?
+
+Contributions are more than welcome! Just do me a favor and check out the [contribution guidelines](CONTRIBUTE.md) first.
