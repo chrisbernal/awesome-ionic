@@ -1,4 +1,4 @@
-# Contribution Guidelines
+# Contribution
 
 Please make sure your pull requests follow these guidelines:
 
