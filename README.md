@@ -61,6 +61,8 @@
 * [Ionic Weather App](https://github.com/driftyco/ionic-weather)
 * [Push Notification Sample App](https://github.com/hollyschinsky/PushNotificationSample)
 * [Ionic Chat application](https://github.com/melvin0008/ionic-socketio-chat-client/) - Chat application made using ionic and socketio
+* [Ionic 2 Push Notification Sample App](https://github.com/aggarwalankush/ionic2-push-base)
+* [Ionic 2 Weather app](https://github.com/aggarwalankush/ionic2-mosum)
 
 ## And A Bunch More! (I am in the process of sorting these)
 
