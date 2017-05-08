@@ -65,6 +65,7 @@
 ## And A Bunch More! (I am in the process of sorting these)
 
 
+* [gauravsaini03/ionic3-ibeacon](https://github.com/gauravsaini03/ionic3-ibeacon)
 * [alevicki/ionic-parse-starter](https://github.com/alevicki/ionic-parse-starter)
 * [Alexintosh/Awesome-Ionic](https://github.com/Alexintosh/Awesome-Ionic)
 * [alongubkin/ionic-multiple-views](https://github.com/alongubkin/ionic-multiple-views)
